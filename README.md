@@ -187,7 +187,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link: [https://github.com/Ranjeetverma06/textwritten](https://github.com/Ranjeetverma06/textwritten)
 
 
-Rudresh Dixit : [ranjeet.it18@nsut.ac.in](ranjeet.it18@nsut.ac.in)
+Ranjeet Verma : [ranjeet.it18@nsut.ac.in](ranjeet.it18@nsut.ac.in)
 
 
 
